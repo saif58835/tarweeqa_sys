@@ -1,0 +1,31 @@
+name: tarweeqa_erp
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  firebase_remote_config: ^4.3.0
+  firebase_crashlytics: ^3.4.7
+  shared_preferences: ^2.2.2
+  intl: ^0.18.1
+  crypto: ^3.0.3
+  share_plus: ^7.2.1
+  path_provider: ^2.1.1
+  get: ^4.6.6
+  vibration: ^1.7.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
