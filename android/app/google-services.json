@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915069495500",
+    "project_id": "tarweeqa-erp",
+    "storage_bucket": "tarweeqa-erp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915069495500:android:80f6a8ebc128e249e77a69",
+        "android_client_info": {
+          "package_name": "com.example.tarweeqa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNad5ADOdWKfWJf6UfwaGb4s17sjcjDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
